@@ -70,37 +70,37 @@ class NaturalNumberSum {
 
 
 //5-
-class VotingEligibility {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter age: ");
-        int age = sc.nextInt();
-
-        if (age >= 18) {
-            System.out.println("The person's age is " + age + " and can vote.");
-        } else {
-            System.out.println("The person's age is " + age + " and cannot vote.");
-        }
-    }
-}
+//class VotingEligibility {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("Enter age: ");
+//        int age = sc.nextInt();
+//
+//        if (age >= 18) {
+//            System.out.println("The person's age is " + age + " and can vote.");
+//        } else {
+//            System.out.println("The person's age is " + age + " and cannot vote.");
+//        }
+//    }
+//}
 
 
 //6-
-class NumberCheck {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Enter a number: ");
-        int number = sc.nextInt();
-
-        if (number > 0) {
-            System.out.println("Positive");
-        } else if (number < 0) {
-            System.out.println("Negative");
-        } else {
-            System.out.println("Zero");
-        }
-    }
-}
+//class NumberCheck {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("Enter a number: ");
+//        int number = sc.nextInt();
+//
+//        if (number > 0) {
+//            System.out.println("Positive");
+//        } else if (number < 0) {
+//            System.out.println("Negative");
+//        } else {
+//            System.out.println("Zero");
+//        }
+//    }
+//}
 
 
 //7-
